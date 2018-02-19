@@ -1,0 +1,21 @@
+{
+    "name": "rutger-speksnijder/php-riot-api-client",
+    "description": "A PHP API client for the Riot Games API.",
+    "type": "library",
+    "keywords": ["php", "riot games", "league of legends", "api", "client"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rutger Speksnijder",
+            "email": "rutgerspeksnijder@hotmail.com",
+            "homepage": "https://github.com/rutger-speksnijder/",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
