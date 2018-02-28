@@ -4,6 +4,13 @@ A client for the Riot Games API written in PHP.
 
 https://developer.riotgames.com/api-methods/
 
+## Todo
+
+Implement new runes reforged static data:
+https://discussion.developer.riotgames.com/articles/4906/announcing-new-endpoints-for-static-data-api.html
+https://developer.riotgames.com/api-methods/#lol-static-data-v3/GET_getReforgedRunePaths
+
+
 ## Installation
 
 ```
